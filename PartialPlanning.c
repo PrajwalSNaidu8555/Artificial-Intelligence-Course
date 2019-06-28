@@ -1,5 +1,3 @@
-// Project method 3?
-
 //PROBLEM 3: Create an agent that plans effectively in partial order planning and in dynamic environment.
 //(Example: wear tie , after wearing shoes, or wear tie, then goes for wearing tie, given time and objects  (shirt, shoes, socks) made to appear in order for specific time. 
 
